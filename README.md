@@ -1,6 +1,6 @@
 # IndexMixedData-Virgili-Gervaisetal
 
-This repository contains the codes and data set used in the paper titled *Mapping socio-economic status using mixed data: a hierarchical Bayesian approach* by Virgili-Gervais & al. published in the journal of the Royal Statistical Society - Series A.
+This repository contains the codes and data set used in the paper titled *Mapping socio-economic status using mixed data: a hierarchical Bayesian approach* by Virgili-Gervais & al. under review for the journal of the Royal Statistical Society - Series A, Statistics in Society.
 
 ## Requirements
 - [R](https://www.r-project.org) [Free]
